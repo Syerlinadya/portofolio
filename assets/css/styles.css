@@ -652,7 +652,9 @@ img{
   .education__time{
     padding: 0 2rem;
   }
-  
+  .works__title{
+    text-align: center;
+  }
   .project{
     background: none;
   }
@@ -716,6 +718,9 @@ img{
 
   .section{
     padding: 3rem 0 2rem;
+  }
+  .works__title{
+    text-align: center;
   }
   .about__description{
     text-align: center;
