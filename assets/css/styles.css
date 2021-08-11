@@ -391,6 +391,7 @@ img{
 /* ===== EDUCATION =====*/
 .education__container{
   row-gap: 2rem;
+  margin : 6.5rem 0;
 }
 
 .education__content{
