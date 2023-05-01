@@ -207,12 +207,12 @@ img{
 }
 
 .home__img{
-  padding-top: 1.3rem;
-  padding-left: .8rem;
-  width: 160px;
-  height: 160;
+  padding-top: 0.8rem;
+  padding-left: .5rem;
+  width: 170px;
+  height: 165px;
   background-color: var(--first-color);
-  border-radius: 50%;
+  border-radius: 100%;
   overflow: hidden;
   margin-bottom: var(--mb-2);
 }
